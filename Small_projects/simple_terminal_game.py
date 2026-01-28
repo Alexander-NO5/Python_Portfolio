@@ -1,3 +1,5 @@
+# I did this project only with the basis I've learned from my course so far.
+
 # terminal_game
 # World of Might and Magic
 
